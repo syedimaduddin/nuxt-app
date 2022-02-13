@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", (function(a,b){return {data:[{}],fetch:{},mutations:[["vuexfire\u002FSET_VALUE",{path:"news",target:{newsItem:{title:a,notice:a,link:a,timestamp:-1644750766599,date:"XX\u002FYY\u002FZZ",notification:"no"},news:b},data:b}]]}}("",Array(0))));
