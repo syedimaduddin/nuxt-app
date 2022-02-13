@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{457:function(t,e,l){"use strict";l.r(e),e.default=[{text:"File",value:"file"},{text:"Name",value:"name"},{text:"File Size",value:"size",class:"downloads-tab--size"},{text:"URL",value:"url"}]}}]);

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/contributions", (function(a,b){return {data:[{}],fetch:{},mutations:[["vuexfire\u002FSET_VALUE",{path:"contributions",target:{contribution:{name:a,amount:a,description:a,remark:a},contributions:b},data:b}]]}}("",Array(0))));

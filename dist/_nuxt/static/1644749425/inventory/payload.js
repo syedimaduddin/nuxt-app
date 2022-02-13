@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/inventory", (function(a,b,c,d,e,f){c.inventory=d;c.entrySelect={name:e,allotted:a,total:a,working:a};c.entryAdd={name:e,allotted:a,total:a,working:a};c.requests=f;return {data:[{}],fetch:{},mutations:[[b,{path:"inventory",target:c,data:d}],[b,{path:"requests",target:c,data:f}]]}}(0,"vuexfire\u002FSET_VALUE",{},Array(0),"",Array(0))));

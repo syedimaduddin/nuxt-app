@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/robovoyage", {data:[{}],fetch:{},mutations:[]});

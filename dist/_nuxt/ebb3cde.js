@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{535:function(t,e,l){"use strict";l.r(e),e.default=[{text:"Contributor(s)",align:"left",sortable:!1,value:"name"},{text:"Contribution",align:"left",sortable:!1,value:"amount"},{text:"Purpose",align:"left",sortable:!1,value:"description"},{text:"Remarks",align:"left",sortable:!1,value:"remark"}]}}]);
