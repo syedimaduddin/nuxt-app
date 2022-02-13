@@ -105,16 +105,16 @@ export default {
     success: false,
     error: ''
   }),
-  head() {
-    if (!this.isAdmin)
-      return {
-        title: 'Join Us'
-      }
-    else
-      return {
-        title: 'Members'
-      }
-  },
+  // head() {
+  //   if (!this.isAdmin)
+  //     return {
+  //       title: 'Join Us'
+  //     }
+  //   else
+  //     return {
+  //       title: 'Members'
+  //     }
+  // },
 
   computed: {
     ...mapState(['isAdmin']),

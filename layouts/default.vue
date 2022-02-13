@@ -131,13 +131,13 @@ export default {
           title: 'Sign In',
           link: '/signin',
           auth: false
-        },
-        {
-          icon: 'mdi-account-group',
-          title: 'Members',
-          link: '/apply',
-          auth: true
         }
+        // {
+        //   icon: 'mdi-account-group',
+        //   title: 'Members',
+        //   link: '/apply',
+        //   auth: true
+        // }
       ],
       moreItems: [
         { icon: 'mdi-android', title: 'Robocon', link: '/robocon' },
@@ -161,8 +161,7 @@ export default {
         },
         {
           name: 'mdi-github',
-          link:
-            'https://github.com/open-roboclub/roboclub-vue/graphs/contributors'
+          link: 'https://github.com/open-roboclub/roboclub-vue/graphs/contributors'
         }
       ]
     }
