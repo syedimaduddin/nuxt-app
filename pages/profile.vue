@@ -47,10 +47,6 @@
         <v-card :class="['profile-card', profileCardMargin]">
           <h2 class="grey--text">
             Coming Soon
-            <form>
-              <label>Email</label>
-              <input type="email" required />
-            </form>
           </h2>
         </v-card>
       </v-col>

@@ -116,12 +116,12 @@ export default {
     return {
       sideNav: false,
       menuItems: [
-        {
-          icon: 'mdi-account-check',
-          title: 'Apply',
-          link: '/apply',
-          auth: false
-        },
+        // {
+        //   icon: 'mdi-account-check',
+        //   title: 'Apply',
+        //   link: '/apply',
+        //   auth: false
+        // },
         { icon: 'mdi-account-multiple', title: 'Team', link: '/team' },
         { icon: 'mdi-wrench', title: 'Projects', link: '/projects' },
         { icon: 'mdi-bell', title: 'News', link: '/news' },
@@ -144,11 +144,7 @@ export default {
         { icon: 'mdi-robot', title: 'RoboVoyage', link: '/robovoyage' },
         { icon: 'mdi-cloud-download', title: 'Downloads', link: '/downloads' },
         { icon: 'mdi-store', title: 'Inventory', link: '/inventory' },
-        {
-          icon: 'mdi-coin',
-          title: 'Contributions',
-          link: '/contributions'
-        }
+        { icon: 'mdi-coin', title: 'Contributions', link: '/contributions' }
       ],
       icons: [
         {
